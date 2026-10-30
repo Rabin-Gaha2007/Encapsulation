@@ -12,3 +12,4 @@ C:\ISMT C#\OOPs\obj\Debug\net10.0\refint\OOPs.dll
 C:\ISMT C#\OOPs\obj\Debug\net10.0\OOPs.pdb
 C:\ISMT C#\OOPs\obj\Debug\net10.0\OOPs.genruntimeconfig.cache
 C:\ISMT C#\OOPs\obj\Debug\net10.0\ref\OOPs.dll
+C:\ISMT C#\OOPs\obj\Debug\net10.0\OOPs.sourcelink.json

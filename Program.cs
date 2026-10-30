@@ -81,37 +81,37 @@
 
 
 
-    Student s = new Student();
-    s.SetAge(22);
-    Console.WriteLine(s.GetAge());   // Output: 22
+    // Student s = new Student();
+    // s.SetAge(22);
+    // Console.WriteLine(s.GetAge());   // Output: 22
 
-class Student
-{
-    private int age;
+// class Student
+// {
+//     private int age;
 
-    public void SetAge(int newAge)
-    {
-        if (newAge >= 0 && newAge <= 120)
-        {
-            age = newAge;
-        }
-        else
-        {
-            Console.WriteLine("Invalid age");
-        }
-    }
+//     public void SetAge(int newAge)
+//     {
+//         if (newAge >= 0 && newAge <= 120)
+//         {
+//             age = newAge;
+//         }
+//         else
+//         {
+//             Console.WriteLine("Invalid age");
+//         }
+//     }
 
-    public int GetAge()
-    {
-        return age;
-    }
-}
+//     public int GetAge()
+//     {
+//         return age;
+//     }
+// }
 
 
 
 
 Person p = new Person();
-p.Name = "Ram";
+p.Name = "Aakash Sotang Rai";
 Console.WriteLine(p.Name);
 class Person
 {
